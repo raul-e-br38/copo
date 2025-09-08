@@ -6,3 +6,8 @@ export default {
     branco: "#FFFFFF",
     verde_btn: "#20FDD0",
 };
+export const colors = {
+    btnAzul: "#00BFFF",
+    text: "#000000",
+    shadow: "#000000",
+};

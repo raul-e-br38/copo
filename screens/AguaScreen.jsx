@@ -4,7 +4,7 @@ import WaterGlass from "../components/WaterGlass";
 import colors from "../design/colors";
 import sizes from "../design/sizes";
 import BtnPequeno from "../components/BtnPequeno";
-import BtnPersonalizado from "../components/BtnPersonalizado"; // novo import
+import BtnPersonalizado from "../components/BtnPersonalizado";
 
 export default function AguaScreen() {
     const [ml, setMl] = useState(2000);
@@ -119,3 +119,4 @@ const styles = StyleSheet.create({
         fontSize: 16,
     },
 });
+
